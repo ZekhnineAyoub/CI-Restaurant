@@ -1,13 +1,17 @@
+
+{
     "location": "Colombes",
     "specialty": "Tacos",
     "ratings": "TroisEtoiles",
-    "name": "Tacos de paris ",
-    "phone_number": "0625241348",
+    "name": "colombes tacos",
+    "phone_number": "0622154879",
 
     "menu":{
-        "id":10,
-        "menu_type":"type kebab",
-        "menu_item": "item kebab",
-        "menu_price":45
+        "id":78,
+        "menu_type":" menu tacos",
+        "menu_item": "item tacos",
+        "menu_price":9
 
     }
+
+}

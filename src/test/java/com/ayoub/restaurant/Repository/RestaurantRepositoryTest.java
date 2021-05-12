@@ -34,7 +34,7 @@ class RestaurantRepositoryTest {
         Restaurant restaurant = new Restaurant(
                 "Tacos de paris",
                 "Colombe",
-                "06625874",
+                "0622157689",
                 Specialty.Kebab,
                 Ratings.DeuxEtoiles,
                 menu);
