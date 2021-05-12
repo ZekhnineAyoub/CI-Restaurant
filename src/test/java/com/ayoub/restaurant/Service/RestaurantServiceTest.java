@@ -23,7 +23,6 @@ import static org.mockito.Mockito.verify;
 @ExtendWith(MockitoExtension.class)
 class RestaurantServiceTest {
 
-
     @Mock private RestaurantRepository restaurantRepository;
     private RestaurantService underTest;
 
